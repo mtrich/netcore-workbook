@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using ToDo.Models;
 
-namespace ToDo.Controllers
+namespace ToDoApp.Controllers
 {
     public class HomeController : Controller
     {
